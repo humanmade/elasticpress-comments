@@ -17,7 +17,7 @@
 	</tr>
 </table>
 
-Adds a ne feature to ElasticPress to allow it to index comments, and include them in search queries.
+Adds a new feature to ElasticPress to allow it to index comments, and include them in search queries.
 
 
 Getting Set Up
